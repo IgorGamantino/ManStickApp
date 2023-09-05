@@ -3,6 +3,9 @@
     "name": "ManStickApp",
     "slug": "ManStickApp",
     "version": "1.0.0",
+    "experiments": {
+      "tsconfigPaths": true
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
